@@ -1,0 +1,1 @@
+git reset --soft HEAD~2 el 2 puede cambiar dependiendo de cuantos commits tienes en tu stash o tu stack de commits
