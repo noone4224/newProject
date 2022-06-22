@@ -1,1 +1,12 @@
 git reset --soft HEAD~2 el 2 puede cambiar dependiendo de cuantos commits tienes en tu stash o tu stack de commits
+git cherry pick https://platzi.com/clases/1557-git-github/19982-git-cherry-pick-traer-commits-viejos-al-head-de-un/?gclid=CjwKCAjw-8qVBhANEiwAfjXLrqFCMsVQ_aak8zTzKnNTIadFtqTWCNP_9xB9mlA6aZmc928GHUw8RhoCTeMQAvD_BwE&gclsrc=aw.ds
+git rebase <name of your branch to rebase> esto es para estar actualizado con tu rama destino
+git rebase --continue para seguir con el rebase después de arreglar tu commit
+git commit -m <message> 
+git commit --amend este es para poder juntar cambios extra a un commit 
+git checkout -b <name of your branch> para crear tu nueva branch
+git checkout <name of your branch> para ir a una branch
+git status para ver los archivos que editaste o borraste etc 
+git log para poder ver tus commits
+git add . = agregar todos tus cambios 
+git add carpeta1 = agregar un archivo nadamás o una carpeta
